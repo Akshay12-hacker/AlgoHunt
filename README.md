@@ -1,2 +1,2 @@
 # AlgoHunt
-A repository for Algorithms Hunting
+A repository for Algorithms Hunting 
